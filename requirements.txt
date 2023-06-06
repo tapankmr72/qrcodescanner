@@ -1,1 +1,1 @@
-treamlit_qrcode_scanner
+streamlit_qrcode_scanner
